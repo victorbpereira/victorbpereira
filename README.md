@@ -1,6 +1,8 @@
 <div style="display: inline-block;"><br/>
-  <img align="start" src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="">
+  <img align="center" src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="">
 </div>
+
+<h1>Skills</h1>
 
 <div style="display: inline-block;"><br/>
   <img align="start" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
